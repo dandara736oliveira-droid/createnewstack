@@ -1,0 +1,8 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: Cria um bucket S3 simples
+
+Resources:
+  MeuBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: meu-bucket-cloudformation-20251001
