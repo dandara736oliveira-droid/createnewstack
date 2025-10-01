@@ -1,13 +1,10 @@
-# 🚀 Stack AWS com S3 Bucket e Lambda
+# Stack AWS com S3 Bucket e Lambda Function
 
-Este projeto utiliza **AWS CloudFormation** para criar e gerenciar uma infraestrutura básica na AWS, composta por:
-
-- ✅ Um bucket S3
-- ✅ Uma função Lambda em Python
-- ✅ Permissões IAM para a Lambda acessar o bucket
+Este projeto utiliza AWS CloudFormation para provisionar uma infraestrutura básica na AWS, composta por um bucket S3 e uma função Lambda com permissões apropriadas.
 
 ---
 
-## 🧾 Descrição
+## Descrição
 
-A stack foi criada
+A stack foi desenvolvida com foco em automação e boas prát
+
